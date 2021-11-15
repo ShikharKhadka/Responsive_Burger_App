@@ -1,6 +1,7 @@
 # burger_app
 
-A new Flutter application.
+Simple Responsive flutter application with static page
+
 
 ## Getting Started
 
